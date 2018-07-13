@@ -76,3 +76,9 @@ h1 {
 #press img:hover {
 	border: 5px rgb(111,127,122) solid;
 }
+
+/*////////// Footer Styles //////////*/
+
+footer p {
+	float: right;
+}
