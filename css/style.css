@@ -72,3 +72,7 @@ h1 {
 #press a {
 	text-decoration: none;
 }
+
+#press img:hover {
+	border: 5px rgb(111,127,122) solid;
+}
