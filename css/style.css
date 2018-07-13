@@ -78,7 +78,9 @@ h1 {
 }
 
 /*////////// Footer Styles //////////*/
-
+footer {
+	background: #fff;
+}
 footer p {
 	color: #555;
 	float: right;
