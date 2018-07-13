@@ -80,5 +80,6 @@ h1 {
 /*////////// Footer Styles //////////*/
 
 footer p {
+	color: #555;
 	float: right;
 }
